@@ -1,0 +1,40 @@
+name: Weekly Data Cleanup
+
+on:
+  schedule:
+    # Every Saturday at 4 AM UTC
+    - cron: '0 4 * * 6'
+
+  # Optional: allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Clear all data in subfolders but keep structure
+        run: |
+          for i in 0 1 2 3 4; do
+            find "$i/URLS" -type f -delete
+            find "$i/portadas" -type f -delete
+          done
+
+      - name: Create .gitkeep files to preserve folders if empty
+        run: |
+          for i in 0 1 2 3 4; do
+            touch "$i/URLS/.gitkeep"
+            touch "$i/portadas/.gitkeep"
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Weekly cleanup: remove data but keep folder structure" || echo "No changes to commit"
+          git push
+

@@ -1,4 +1,4 @@
-name: Saturday Cleanup
+name: CrearJsons
 
 on:
   schedule:

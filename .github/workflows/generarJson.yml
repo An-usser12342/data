@@ -1,30 +1,20 @@
-name: CrearJsons
+name: Manual JSON
 
 on:
-  schedule:
-    - cron: '0 6 * * 6'  # Every Saturday at 6:00 UTC
+  workflow_dispatch:
 
 jobs:
-  cleanup-img:
+  process-txt:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Remove all files in img folders except .gitkeep
-        run: |
-          find . -type d -name img | while read dir; do
-            find "$dir" -type f ! -name '.gitkeep' -delete
-          done
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Cleanup: cleared img folders (excluding .gitkeep)" || echo "Nothing to commit"
-          git push
-        env:
-          # Needed for push
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Run TXT Processor
+        run: python convert-to-json.py
 

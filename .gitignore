@@ -1,25 +1,25 @@
-folder0/URLS/*
-folder0/portadas/*
-folder1/URLS/*
-folder1/portadas/*
-folder2/URLS/*
-folder2/portadas/*
-folder3/URLS/*
-folder3/portadas/*
-folder4/URLS/*
-folder4/portadas/*
+0/URLS/*
+0/portadas/*
+1/URLS/*
+1/portadas/*
+2/URLS/*
+2/portadas/*
+3/URLS/*
+3/portadas/*
+4/URLS/*
+4/portadas/*
 
 # Except the .gitkeep files
-!folder0/URLS/.gitkeep
-!folder0/portadas/.gitkeep
-!folder1/URLS/.gitkeep
-!folder1/portadas/.gitkeep
-!folder2/URLS/.gitkeep
-!folder2/portadas/.gitkeep
-!folder3/URLS/.gitkeep
-!folder3/portadas/.gitkeep
-!folder4/URLS/.gitkeep
-!folder4/portadas/.gitkeep
+!0/URLS/.gitkeep
+!0/portadas/.gitkeep
+!1/URLS/.gitkeep
+!portadas/.gitkeep
+!2/URLS/.gitkeep
+!2/portadas/.gitkeep
+!3/URLS/.gitkeep
+!3/portadas/.gitkeep
+!4/URLS/.gitkeep
+!4/portadas/.gitkeep
 
 
 .venv/

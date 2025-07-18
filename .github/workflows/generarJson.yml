@@ -22,12 +22,12 @@ jobs:
         run: python convert-to-json.py
       
       - name: Commit and push JSON files
-          run: |
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add folder*/URLS/*.json
-            git commit -m "Add JSON files from convert-to-json.py" || echo "Nothing to commit"
-            git push
-          env:
-            GITHUB_TOKEN: ${{ secrets.TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add folder*/URLS/*.json
+          git commit -m "Add JSON files from convert-to-json.py" || echo "Nothing to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
 

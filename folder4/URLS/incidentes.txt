@@ -1,8 +1,75 @@
-https://mimorelia.com/noticias/michoacan/se-registra-fuerte-choque-entre-tr%C3%A1ileres-en-la-autopista-p%C3%A1tzcuaro-l%C3%A1zaro-c%C3%A1rdenas
-https://www.lajornadadeoriente.com.mx/puebla/mascip-anuncia-cierre-de-tres-de-las-principales-carreteras-de-puebla-la-otra-semana/
-https://oronoticiaspuebla.com/anuncian-bloqueos-simultaneos-el-23-de-julio-en-carreteras-de-puebla/
-https://www.meganoticias.mx/cdmx/noticia/mascip-anuncia-bloqueos-de-carreteras-ante-desinteres-del-gobierno-estatal/644137
-https://oem.com.mx/elheraldodetabasco/mexico/bloqueo-ciudad-del-carmen-frontera-cumplira-4-dias-van-cfe-y-policias-24804884
-https://oem.com.mx/elsoldecordoba/local/transportistas-de-la-canacar-denuncian-que-delincuentes-usan-patrullas-clonadas-para-asaltar-en-la-autopista-puebla-orizaba-24803344
-https://aldialogo.mx/estado/2025/07/17/alertan-por-cierres-viales-parciales-en-queretaro-debido-a-peregrinacion
-https://voxpopulinoticias.com.mx/2025/07/productores-bloquean-por-segunda-vez-carretera-en-san-fernando-tamaulipas-por-bajos-precios-del-sorgo/
+[
+  {
+    "url": "https://mimorelia.com/noticias/michoacan/se-registra-fuerte-choque-entre-tr%C3%A1ileres-en-la-autopista-p%C3%A1tzcuaro-l%C3%A1zaro-c%C3%A1rdenas",
+    "source": "mimorelia.com",
+    "title": "Se registra fuerte choque entre tráileres en la autopista Pátzcuaro-Lázaro Cárdenas",
+    "author": [],
+    "published_date": null,
+    "description": "Morelia, Michoacán (MiMorelia.com).- Un accidente tipo choque por alcance se registró la noche de este miércoles en la autopista Pátzcuaro–Lázaro Cárdenas, específicamente en el tramo Nueva Italia–Lázaro Cárdenas, a la altura del kilómetro 249+500, según reportes de la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) Michoacán. El percance involucró a al menos dos unidades de carga pesada, una de las cuales terminó con la cabina severamente dañada tras impactarse contra la parte trasera de otro tráiler. Las imágenes difundidas muestran los daños materiales considerables en ambas unidades."
+  },
+  {
+    "url": "https://www.lajornadadeoriente.com.mx/puebla/mascip-anuncia-cierre-de-tres-de-las-principales-carreteras-de-puebla-la-otra-semana/",
+    "source": "lajornadadeoriente.com.mx",
+    "title": "MASCIP anuncia cierre de tres de las principales carreteras de Puebla la otra semana",
+    "author": [
+      "Martín Hernández Alcántara"
+    ],
+    "published_date": "2025-07-18T10:00:34+00:00",
+    "description": "El Movimiento Autogestión Social Campesino Indígena Popular (MASCIP) anunció bloqueos simultáneos en diversas vialidades del estado de Puebla el próximo 23 de julio a partir de las 10 horas, como medida de presión ante la falta de respuesta de autoridades federales y estatales a una serie de demandas sociales y de salud. Las protestas se realizarán en los siguientes puntos: Carretera Tehuacán–Teotitlán, a la altura de Calipan. Autopista Cuacnopalan–Oaxaca, en la caseta de San Lorenzo, Carretera federal Puebla–Tehuacán, a la altura de la comunidad Francisco I. Madero. Una de las principales demandas es la detención del uso de avionetas “antilluvia” que, según denuncias, operan en la región de Tehuacán y Cañada Morelos. Estas aeronaves, presuntamente pertenecientes a granjas avícolas e invernaderos de origen chino, estarían esparciendo yoduro de plata, lo que inhibe las lluvias y afecta las tierras agrícolas. Además, el MASCIP exige a los gobiernos federal y estatal una"
+  },
+  {
+    "url": "https://oronoticiaspuebla.com/anuncian-bloqueos-simultaneos-el-23-de-julio-en-carreteras-de-puebla/",
+    "source": "oronoticiaspuebla.com",
+    "title": "Anuncian bloqueos simultáneos el 23 de julio en carreteras de Puebla",
+    "author": [
+      "Amaury Jiménez",
+      "Por"
+    ],
+    "published_date": "2025-07-17T16:30:09+00:00",
+    "description": "El próximo 23 de julio, a partir de las 10:00 horas, el Movimiento Autogestión Social Campesino Indígena Popular (MASCIP) anunció bloqueos simultáneos en vialidades del estado como medida de presión ante la falta de respuesta de autoridades federales y estatales a diversas demandas sociales y de salud, con el objetivo de buscar una solución. La organización informó que las protestas se llevarán a cabo en diferentes puntos: Carretera Tehuacán–Teotitlán , a la altura de Calipan , a la altura de Calipan Autopista Cuacnopalan–Oaxaca , a la altura de la caseta de San Lorenzo , a la altura de la caseta de San Lorenzo Carretera federal Puebla–Tehuacán, a la altura de Francisco I. Madero Según José Luis Machuca, líder del movimiento, las protestas buscan detener el uso de avionetas “antilluvia” en la región de Tehuacán y Cañada Morelos, las cuales presuntamente son operadas por granjas avícolas e invernaderos chinos que estarían"
+  },
+  {
+    "url": "https://www.meganoticias.mx/cdmx/noticia/mascip-anuncia-bloqueos-de-carreteras-ante-desinteres-del-gobierno-estatal/644137",
+    "source": "meganoticias.mx",
+    "title": "MASCIP anuncia bloqueos de carreteras ante desinterés del Gobierno Estatal",
+    "author": [],
+    "published_date": null,
+    "description": "Integrantes del Movimiento Autogestión Social Campesino Indígena Popular (Mascip), se sumarán a una serie de bloqueos que se llevarán a cabo el próximo 23 de julio, en diferentes partes del estado de Puebla; después de casi 6 meses de estar esperando avances en cuanto a la investigación sobre la existencia de las avionetas antilluvias, el mejoramiento de los servicios de salud, y la falta de justicia para la violencia obstétrica de la compañera Delia Coello Marqués, son los motivos de poder manifestarse en contra de ese desinterés. Además, dijo que en esta ocasión se sumará a sus peticiones, la clausura definitiva de los viveros de la empresa EcoTerra, se informó que los bloqueos de la caseta de cobro de la Cuacnopalan Oaxaca a la altura de San Lorenzo, la carretera federal México Veracruz a la altura de Pino Suarez y la carretera estatal, a la altura de Calipan, se llevará"
+  },
+  {
+    "url": "https://oem.com.mx/elheraldodetabasco/mexico/bloqueo-ciudad-del-carmen-frontera-cumplira-4-dias-van-cfe-y-policias-24804884",
+    "source": "oem.com.mx",
+    "title": "Bloqueo Ciudad del Carmen-Frontera cumplirá 4 días; van CFE y policías - El Heraldo de Tabasco",
+    "author": [],
+    "published_date": null,
+    "description": "POLICIACA ¡Lo que faltaba! Fue robada la góndola que transportaba el concentrado de oro y plata que fue hurtado inicialmente a minera El tractocamión y la góndola que habían transportado la carga robada estaba en resguardo de un depósito vehicular a donde llegó un comando y se los llevó"
+  },
+  {
+    "url": "https://oem.com.mx/elsoldecordoba/local/transportistas-de-la-canacar-denuncian-que-delincuentes-usan-patrullas-clonadas-para-asaltar-en-la-autopista-puebla-orizaba-24803344",
+    "source": "oem.com.mx",
+    "title": "Transportistas de la Canacar denuncian que delincuentes usan patrullas clonadas para asaltar en la autopista Puebla-Orizaba - El Sol de Córdoba",
+    "author": [],
+    "published_date": null,
+    "description": "LOCAL Habitantes de Agustín Millán exigen al Ayuntamiento atender carretera afectada por lluvias Esta vía de comunicación es el principal acceso a esta y otras comunidades más de la zona baja y alta de la Sierra del Gallego"
+  },
+  {
+    "url": "https://aldialogo.mx/estado/2025/07/17/alertan-por-cierres-viales-parciales-en-queretaro-debido-a-peregrinacion",
+    "source": "aldialogo.mx",
+    "title": "Alertan por cierres viales parciales en Querétaro debido a peregrinación",
+    "author": [
+      "Carolina González"
+    ],
+    "published_date": "2025-07-17T00:00:00",
+    "description": "Asimismo, se indicó que el domingo 20 de julio es el día en que más afluencia se espera, por lo que el recorrido está previsto inicie a partir de las 5 de la mañana, esto sobre Prolongación Constituyentes, y continuando sobre la autopista México – Querétaro, en dirección a CDMX."
+  },
+  {
+    "url": "https://voxpopulinoticias.com.mx/2025/07/productores-bloquean-por-segunda-vez-carretera-en-san-fernando-tamaulipas-por-bajos-precios-del-sorgo/",
+    "source": "voxpopulinoticias.com.mx",
+    "title": "Productores bloquean por segunda vez carretera en San Fernando, Tamaulipas por bajos precios del sorgo",
+    "author": [
+      "Kenny Gonzalez"
+    ],
+    "published_date": "2025-07-17T13:44:33-07:00",
+    "description": "Durante la tarde de este jueves, productores bloquean por segunda vez carretera en San Fernando, Tamaulipas, por bajos precios del sorgo. Los productores agropecuarios del norte de Tamaulipas volvieron a tomar la carretera Victoria–Matamoros, a la altura del entronque conocido como la “Y” en San Fernando, para exigir precios justos por el sorgo y atención del Gobierno Federal a sus demandas. Productores bloquean carretera en San Fernando, Tamaulipas Guillermo Aguilar Flores, presidente del Frente Estatal de Productores Agropecuarios de Tamaulipas, explicó que la protesta responde al nulo avance en las negociaciones con las autoridades federales. “Esperábamos que hubiera una solución, un avance, y definitivamente no hubo nada. Entonces, no nos dejan otra opción más que tomar las carreteras”, sentenció. La manifestación se realizó al mismo tiempo que bloqueos en otros estados como Sinaloa y Sonora, donde agricultores también exigen pagos pendientes, agua para riego y un alto al abandono del"
+  }
+]

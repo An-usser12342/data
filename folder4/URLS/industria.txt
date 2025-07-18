@@ -1,8 +1,76 @@
-https://www.dineroenimagen.com/david-paramo/cuatro-hermanas/178129
-https://trasfondo.com.mx/nacional/autobuses-en-mexico-una-mafia-del-transporte-luis-cardenas-p80634
-https://www.am.com.mx/opinion/2025/7/18/autobuses-en-mexico-la-mafia-que-viaja-contigo-746236.html
-https://www.gob.mx/sct/prensa/comprometida-sict-con-la-seguridad-en-carreteras?idiom=es
-https://abctlax.com/trabaja-sict-en-conservacion-periodica-de-vias-de-comunicacion/
-https://www.masnoticias.mx/sict-pone-en-marcha-operativo-delta-para-atender-emergencias-en-carreteras/
-https://veracruz.quadratin.com.mx/trabaja-sict-en-la-conservacion-de-carretera-federal-tuxpan-tampico/
-https://cronicadexalapa.com.mx/supervisa-titular-de-la-sict-avance-de-obras-en-el-estado-de-veracruz/
+[
+  {
+    "url": "https://www.dineroenimagen.com/david-paramo/cuatro-hermanas/178129",
+    "source": "dineroenimagen.com",
+    "title": "Cuatro hermanas",
+    "author": [
+      "David Páramo"
+    ],
+    "published_date": "2025-07-18T00:45:14-06:00",
+    "description": "Las secretarías de Economía y de Infraestructura, Comunicaciones y Transportes tomarán acciones para corregir los graves problemas que enfrenta el transporte público de pasajeros en el país, puesto que es un servicio en el que las prácticas monopólicas dañan a millones de pasajeros. Uno de los temas que dejó muy avanzado la Cofece, encabezada por Andrea Marván, es la investigación en contra de prácticas monopólicas por parte de las cuatro empresas que controlan el transporte público de pasajeros en el país. De hecho, no sería difícil esperar que una de las primeras resoluciones de la Comisión Nacional Antimonopolios tenga que ver con las prácticas en contra de los consumidores que cometen las principales empresas de este sector, que simbólicamente se hacen llamar las cuatro hermanas. Sin embargo, será necesaria una acción determinada de la Secretaría de Economía, encabezada por Marcelo Ebrard, sino también de la SICT, que tiene como secretario"
+  },
+  {
+    "url": "https://trasfondo.com.mx/nacional/autobuses-en-mexico-una-mafia-del-transporte-luis-cardenas-p80634",
+    "source": "trasfondo.com.mx",
+    "title": "Autobuses en México, una mafia del transporte: Luis Cárdenas",
+    "author": [],
+    "published_date": "2025-07-17T11:44:09-06:00",
+    "description": "“Viajar en camión en México es, hoy por hoy, subirse al poder de una mafia tan mezquina que se siente con el derecho de ofrecer un servicio jodido a sabiendas de que la mayor parte de su clientela ya sea por pobreza, por ignorancia o por necesidad se quedará callada” destaca el periodista Luis Cárdenas, en su columna “Autobuses en México: la mafia que viaja contigo. En esta columna, que comparte en un diario nacional, el periodista denuncia cómo el servicio de transporte de pasajeros en autobús en México es un monopolio abusivo que afecta principalmente a los sectores más vulnerables de la población. Luis Cárdenas reprocha la inacción del gobierno y la complacencia con las prácticas monopólicas de las principales empresas del sector. Para Cárdenas, “viajar en autobús no es solo una aventura incómoda: es un atraco. IAMSA, ADO, Estrella Blanca y Senda, catalogadas como las “Cuatro Hermanas”, son"
+  },
+  {
+    "url": "https://www.am.com.mx/opinion/2025/7/18/autobuses-en-mexico-la-mafia-que-viaja-contigo-746236.html",
+    "source": "am.com.mx",
+    "title": "Autobuses en México: la mafia que viaja contigo",
+    "author": [
+      "Luis Cárdenas"
+    ],
+    "published_date": "2025-07-18T00:00:00",
+    "description": "En México, viajar en autobús no es solo una aventura incómoda: es un atraco, no la posibilidad de un atraco que termine muy mal, es un robo, el pasajero es robado abiertamente, con descaro, todos lo saben y nadie hace nada. Hace poco, la 4T se aventó la puntada de desaparecer a la Cofece y al IFT, dos organismos que, con todo y sus limitaciones, intentaban ponerle un alto a los abusos de los grandes poderes económicos. La verdad, ni en los sueños más intensos de los neoliberales hubiera pasado esto. En su lugar, va a nacer la flamante Comisión Nacional Antimonopolios, que dependerá de la Secretaría de Economía y que, todo apunta, con limitados recursos humanos, técnicos y presupuestales, será una comisión de ornato. Pero volvamos al tema, el transporte de pasajeros en autobús, uno de los monopolios más viles, uno que afecta a los más necesitados y que"
+  },
+  {
+    "url": "https://www.gob.mx/sct/prensa/comprometida-sict-con-la-seguridad-en-carreteras?idiom=es",
+    "source": "gob.mx",
+    "title": "Comprometida SICT con la seguridad en carreteras | Secretaría de Comunicaciones y Transportes | Gobierno | gob.mx",
+    "author": [
+      "Secretaría de Comunicaciones y Transportes"
+    ],
+    "published_date": null,
+    "description": "Secretaría de Comunicaciones y Transportes | 17 de julio de 2025 | Comunicado La Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) del Gobierno de México está comprometida con la seguridad en las carreteras al impulsar políticas públicas integrales enfocadas en la prevención de accidentes, afirmó el subsecretario de Infraestructura, Juan Carlos Fuentes Orrala. El funcionario asistió en representación del secretario Jesús Antonio Esteva Medina a la inauguración del XIV Seminario de Ingeniería Vial, organizado por la Asociación Mexicana de Ingeniería de Vías Terrestres (AMIVTAC) y que inauguró el gobernador de Hidalgo, Julio Ramón Menchaca Salazar. Acompañado por la subsecretaria de Comunicaciones y Transportes, Tania Carro Toledo, Fuentes Orrala dijo que “la SICT seguirá trabajando para que México avance hacia una movilidad más humana, más segura y más sostenible”. Con la representación del secretario Jesús Antonio Esteva Medina asistió a la inauguración del XIV Seminario de Ingeniería Vial, organizado por la"
+  },
+  {
+    "url": "https://abctlax.com/trabaja-sict-en-conservacion-periodica-de-vias-de-comunicacion/",
+    "source": "abctlax.com",
+    "title": "Trabaja SICT en conservación periódica de vías de comunicación",
+    "author": [
+      "Abcadmin Leer Más"
+    ],
+    "published_date": "2025-07-18T07:24:08+00:00",
+    "description": "Inician trabajos para la construcción de Viaducto “Santa Ana”, se estima que la construcción del viaducto generé alrededor de 5 mil 770 empleos, lo que impulsará la mano de obra local y regional Isabel Polvo La Secretaría de Infraestructura, Comunicaciones y Transportes (SICT), realiza trabajos en la conservación de la red carretera federal, enfocándose en la repavimentación y el mantenimiento rutinario para garantizar vialidades seguras y transitables en el estado de Tlaxcala, como en todo el país. Juan Carlos Fuentes Orrala, subsecretario de la SICT, no proporcionó los kilómetros atendidos en la entidad, “no tengo el dato exacto”, no obrante detalló las acciones que se están llevando a cabo: » Estamos trabajando tanto en la conservación periódica que es precisamente la repavimentación, como en la conservación rutinaria que tiene que ver con el bacheo de la superficie de tramos federales, así como la limpieza de cunetas, deshierbe, limpieza de las"
+  },
+  {
+    "url": "https://www.masnoticias.mx/sict-pone-en-marcha-operativo-delta-para-atender-emergencias-en-carreteras/",
+    "source": "masnoticias.mx",
+    "title": "",
+    "author": [],
+    "published_date": "2025-07-17T19:34:43+00:00",
+    "description": "Carlos Andrade, 17 de julio de 2025 Xalapa, Ver.- La Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) implementa el operativo 30 Delta, que se llevará a cabo en puntos carreteros identificados por su siniestralidad, así como en terminales de autobuses de las 32 entidades del país, para garantizar la seguridad y bienestar de los viajeros, esto incluye vigilancia, atención a emergencias, supervisión de instalaciones y examen médico a los operadores del transporte de pasajeros. Participan servidores públicos de la Dirección General de Autotransporte Federal (DGAF), los centros SICT y la Dirección General de Protección y Medicina Preventiva en el Transporte (DGPMPT), en coordinación con la Guardia Nacional, para brindar mayor seguridad y evitar accidentes."
+  },
+  {
+    "url": "https://veracruz.quadratin.com.mx/trabaja-sict-en-la-conservacion-de-carretera-federal-tuxpan-tampico/",
+    "source": "veracruz.quadratin.com.mx",
+    "title": "Trabaja SICT en la conservación de carretera federal Tuxpan-Tampico",
+    "author": [],
+    "published_date": "2025-07-17T11:17:17-06:00",
+    "description": "XALAPA, Ver., 17 de julio de 2025.- La Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) informa a los usuarios de la carretera federal Tuxpan-Tampico que actualmente ejecuta trabajos de conservación y mantenimiento en el tramo Tuxpan-Alazán. Las acciones comprenden renivelación en ambos cuerpos de la vía en los tramos del kilómetro 10+100 al 10+250 y del 13+500 al 13+700. También se ejecutan trabajos de bacheo superficial en los tramos del kilómetro 15+000 al 18+000 y del kilómetro 24+700 al 30+000, y se realizan labores de deshierbe en las cunetas y orillas de la carretera para mejorar la visibilidad y seguridad vial. Por lo que se exhorta a los conductores extremar precauciones, respetar los límites de velocidad y las indicaciones del personal en obra. Cabe señalar que el Tránsito Diario Promedio Anual (TDPA) es de 5 mil 898 vehículos. Estas acciones forman parte del programa permanente de conservación carretera que impulsa"
+  },
+  {
+    "url": "https://cronicadexalapa.com.mx/supervisa-titular-de-la-sict-avance-de-obras-en-el-estado-de-veracruz/",
+    "source": "cronicadexalapa.com.mx",
+    "title": "Supervisa titular de la SICT avance de obras en el estado de Veracruz",
+    "author": [
+      "Crónica De Xalapa"
+    ],
+    "published_date": "2025-07-17T19:29:12+00:00",
+    "description": "En gira de trabajo por el estado de Veracruz, el secretario de Infraestructura, Comunicaciones y Transportes, Jesús Antonio Esteva Medina, constató las obras del distribuidor vial de acceso al puerto de Veracruz, la ampliación de carriles laterales entre los kilómetros 93+350 y 95+320, que se ejecutan en el cuerpo a, sobre la carretera federal 140 Xalapa-Veracruz. Así como la habilitación de caminos provisionales para desviar el tránsito particular que circula por la MEX 140 en la zona de construcción. Este proyecto beneficiará a más de 700 mil habitantes de los municipios de Veracruz, Medellín, Jamapa y Boca del Río, y permitirá una reducción de hasta 25 minutos en los tiempos de recorrido. El titular de la Secretaría de Infraestructura, Comunicaciones y Transportes también recorrió el tramo Laguna Verde–La Mancha de la autopista Cardel–Poza Rica, donde se construyen 19.84 kilómetros de vía en una configuración a dos carriles de circulación, uno"
+  }
+]

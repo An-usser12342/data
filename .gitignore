@@ -1,24 +1,14 @@
-0/URLS/*
 0/portadas/*
-1/URLS/*
 1/portadas/*
-2/URLS/*
 2/portadas/*
-3/URLS/*
 3/portadas/*
-4/URLS/*
 4/portadas/*
 
 # Except the .gitkeep files
-!0/URLS/.gitkeep
 !0/portadas/.gitkeep
-!1/URLS/.gitkeep
-!portadas/.gitkeep
-!2/URLS/.gitkeep
+!1/portadas/.gitkeep
 !2/portadas/.gitkeep
-!3/URLS/.gitkeep
 !3/portadas/.gitkeep
-!4/URLS/.gitkeep
 !4/portadas/.gitkeep
 
 

@@ -12,7 +12,7 @@ from pathlib import Path
 def set_day():
     t = date.today().weekday()
     t = t if t<5 else 0
-    path = Path(f"folder{t}","URLS")
+    path = Path(f"{t}","URLS")
     return path
 
 def read_the_urls(path):

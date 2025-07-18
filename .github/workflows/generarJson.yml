@@ -21,3 +21,9 @@ jobs:
       - name: Run TXT Processor
         run: python convert-to-json.py
       
+      - name: Upload JSON files
+        uses: actions/upload-artifact@v4
+        with:
+          name: json-outputs
+          path: folder*/URLS/*.json
+

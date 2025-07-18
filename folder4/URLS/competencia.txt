@@ -1,3 +1,28 @@
-https://newsinamerica.com/pdcc/noticias/gerenciales/2025/historica-estacion-de-autobuses-en-zona-1-es-remodelada-por-mobiity-ado/
-https://quintanaroohoy.com/quintanaroo/baja-demanda-marca-el-inicio-vacacional-de-ado-en-quintana-roo/
-https://notirasa.com/noticia/expondran-su-talento-artesanas-del-mayab-en-feria-de-verano-en-la-terminal-ado/46622
+[
+  {
+    "url": "https://newsinamerica.com/pdcc/noticias/gerenciales/2025/historica-estacion-de-autobuses-en-zona-1-es-remodelada-por-mobiity-ado/",
+    "source": "newsinamerica.com",
+    "title": "Histórica estación de autobuses en zona 1 es remodelada por MOBILITY ADO",
+    "author": [
+      "Por Favor Ingrese Su Nombre Aquí"
+    ],
+    "published_date": "2025-07-18T04:24:42+00:00",
+    "description": "Con una inversión de más de 8mm de quetzales, Cristóbal Colón® remodela su estación central en Ciudad de Guatemala Guatemala. En seguimiento a los planes de crecimiento en Centroamérica, MOBILITY ADO inauguró la primera estación de autobuses Cristóbal Colón® en la región bajo los estándares de calidad global del grupo. Este nuevo espacio refleja la identidad visual y los estándares de servicio de la compañía mexicana con más de 85 años de experiencia, la cual se expandió en la región desde el 2018 y mantiene presencia en toda Centroamérica. Según compartió Dante Mena, director general región Centroamérica en MOBILITY ADO, con esta inauguración, la compañía reafirma su compromiso con la región, marcando el inicio de una nueva era en el transporte. “La iniciativa responde al propósito que se ha planeado MOBILITY ADO de mejorar la calidad vida de las personas a través de la movilidad, apostando por estaciones más cómodas,"
+  },
+  {
+    "url": "https://quintanaroohoy.com/quintanaroo/baja-demanda-marca-el-inicio-vacacional-de-ado-en-quintana-roo/",
+    "source": "quintanaroohoy.com",
+    "title": "Baja demanda marca el inicio vacacional de ADO en Quintana Roo",
+    "author": [],
+    "published_date": "2025-07-18T01:08:58+00:00",
+    "description": "Redaccion / Grupo Cantón Las salidas con más afluencia son a Yucatán, Villahermosa y Veracruz, en tanto que las llegadas son de Ciudad de México Playa del Carmen.-Si bien desde el viernes la empresa Autobuses del Sureste (ADO) ha visto un mayor flujo de pasajeros, al iniciar el periodo vacacional, este volumen es cerca de un 10% más bajo que lo visto en 2024, algo que la empresa espera que mejore en los próximos días. Lourdes Jiménez, gerente de comercial de Mobility ADO en Riviera Maya, indicó que las salidas con más afluencia son a Yucatán, Villahermosa y Veracruz, en tanto que las llegadas son de Ciudad de México y de Mérida. Al interior de Quintana Roo, también hay un incremento entre Cancún, Playa del Carmen y Bacalar, aunque desde el Aeropuerto de Cancún solo hay incremento hacia Playa del Carmen, no hacia Tulum. Cuestionadas sobre el Aeropuerto de Tulum,"
+  },
+  {
+    "url": "https://notirasa.com/noticia/expondran-su-talento-artesanas-del-mayab-en-feria-de-verano-en-la-terminal-ado/46622",
+    "source": "notirasa.com",
+    "title": "Expondrán su talento artesanas del Mayab en Feria de Verano en la Terminal ADO",
+    "author": [],
+    "published_date": null,
+    "description": "Del 17 al 20 de julio, 48 mujeres artesanas de diversos municipios de Yucatán, así como de Tabasco y Chiapas, participarán en la Feria Artesanal de Verano “Mujeres del Mayab”, organizada por el Gobierno del Estado, a través de la Secretaría de las Mujeres (Semujeres), en colaboración con la Fundación ADO. La feria se realizará en la Terminal del ADO Centro Histórico, en un horario de 10:00 a 19:00, y tiene como objetivo abrir espacios para la promoción y comercialización de productos elaborados por mujeres emprendedoras, muchas de las cuales representan el principal sustento económico de sus familias. Las expositoras provienen de comisarías de Mérida y municipios como Ticul, Hunucmá, Umán, Opichén, Tixkokob, Oxkutzcab, Hocabá, Acanceh, Halachó, Xocchel, Kanasín, Kinchil, Dzan e Izamal, y compartirán su talento, cultura y tradición a través de una variada oferta de productos. Entre los artículos que estarán a la venta se incluyen prendas bordadas,"
+  }
+]

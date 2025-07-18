@@ -1,9 +1,1 @@
-[
-  {
-  "url": "https://www.elfinanciero.com.mx/nacional/2025/07/17/claudia-sheinbaum-mananera-temas-hoy-17-de-julio-de-2025-en-vivo/",
-  "title": "Conferencia 'mañanera' de Claudia Sheinbaum hoy 17 de julio del 2025: Síguela aquí en vivo",
-  "source": "El Financiero",
-  "publishedAt": "2025-07-17",
-  "description": "Grupo Bimbo anunció inversión de 2 mil mdd en México para 2025-2028, generando 2 mil empleos directos y 10,800 indirectos en 7 estados. La titular de Energía presentó estrategia para garantizar suministro eléctrico. Sheinbaum aseguró que no faltará energía y criticó orden del TEPJF sobre disculpas por violencia política."
-}
-]
+https://www.elfinanciero.com.mx/nacional/2025/07/18/claudia-sheinbaum-mananera-temas-hoy-18-de-julio-de-2025-en-vivo/

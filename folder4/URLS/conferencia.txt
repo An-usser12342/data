@@ -1,1 +1,10 @@
-https://www.elfinanciero.com.mx/nacional/2025/07/18/claudia-sheinbaum-mananera-temas-hoy-18-de-julio-de-2025-en-vivo/
+[
+  {
+    "url": "https://www.elfinanciero.com.mx/nacional/2025/07/18/claudia-sheinbaum-mananera-temas-hoy-18-de-julio-de-2025-en-vivo/",
+    "source": "elfinanciero.com.mx",
+    "title": "¿Hernán Bermúdez, exsecretario de Adán Augusto, murió en Panamá? ‘No está confirmado’, dice Sheinbaum",
+    "author": [],
+    "published_date": "2025-07-18T00:00:00",
+    "description": "La presidenta Claudia Sheinbaum encabeza la conferencia de prensa de este 18 de julio en Palacio Nacional. (Cuartoscuro) La presidenta Claudia Sheinbaum encabezó la conferencia ‘mañanera’ desde Palacio Nacional este 18 de julio de 2025. La mandataria podría posicionarse a la polémica de Adán Augusto López y su exsecretario de Seguridad durante su gobierno en Tabasco, Hernán Bermúdez, luego que surgiera nueva información en torno al tema de la relación del grupo criminal y el funcionario. Gabinete informará trascendidos de la muerte de Hernán Bermúdez: ‘No está confirmado’ La presidenta Claudia Sheinbaum solicitó al Gabinete de Seguridad que se confirme el trascendido que surgió ayer sobre la muerte de Hernán Bermúdez, exsecretario de Adán Augusto López, acusado de vínculos con el crimen organizado mientras era funcionario público. “No se tocó en el gabinete. No hay información sobre eso. No está confirmado”, dijo durante la conferencia de prensa. De acuerdo con"
+  }
+]

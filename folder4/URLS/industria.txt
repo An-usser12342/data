@@ -50,7 +50,7 @@
   {
     "url": "https://www.masnoticias.mx/sict-pone-en-marcha-operativo-delta-para-atender-emergencias-en-carreteras/",
     "source": "masnoticias.mx",
-    "title": "",
+    "title": "SICT pone en marcha Operativo Delta",
     "author": [],
     "published_date": "2025-07-17T19:34:43+00:00",
     "description": "Carlos Andrade, 17 de julio de 2025 Xalapa, Ver.- La Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) implementa el operativo 30 Delta, que se llevará a cabo en puntos carreteros identificados por su siniestralidad, así como en terminales de autobuses de las 32 entidades del país, para garantizar la seguridad y bienestar de los viajeros, esto incluye vigilancia, atención a emergencias, supervisión de instalaciones y examen médico a los operadores del transporte de pasajeros. Participan servidores públicos de la Dirección General de Autotransporte Federal (DGAF), los centros SICT y la Dirección General de Protección y Medicina Preventiva en el Transporte (DGPMPT), en coordinación con la Guardia Nacional, para brindar mayor seguridad y evitar accidentes."

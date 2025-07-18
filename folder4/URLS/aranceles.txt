@@ -1,7 +1,67 @@
-https://www.eluniversal.com.mx/cartera/inflacion-robos-y-aranceles-hunden-ventas-de-camiones/
-https://www.bloomberglinea.com/latinoamerica/mexico/habra-drama-y-aranceles-pero-continuara-t-mec-predice-el-economista-jefe-de-moodys-analytics/
-https://www.milenio.com/internacional/aranceles-jitomate-obsequio-trump-productores-florida
-https://elceo.com/economia/t-mec-salva-a-mexico-tasa-efectiva-de-aranceles-seria-de-hasta-7/
-https://rancherita.com.mx/noticias/detalles/179983/acaparamiento-y-especulacion-mantienen-incertidumbre-ante-aplicacion-de-aranceles.html
-https://www.liderempresarial.com/trump-impone-arancel-a-china-de-53-6-esto-dijo-el-pais-asiatico/
-https://latinus.us/latam/2025/7/17/lula-acusa-trump-de-chantajear-brasil-con-aranceles-basados-en-mentiras-147111.html
+[
+  {
+    "url": "https://www.eluniversal.com.mx/cartera/inflacion-robos-y-aranceles-hunden-ventas-de-camiones/",
+    "source": "eluniversal.com.mx",
+    "title": "Inflación, robos y aranceles hunden ventas de camiones",
+    "author": [
+      "Sara Cantera",
+      "Ver Perfil"
+    ],
+    "published_date": null,
+    "description": "La comercialización de camiones pesados en el país está atravesando por uno de sus momentos más difíciles desde la pandemia de Covid-19, en 2020. Un incremento de precios a consecuencia de normativas que exigen nuevas tecnologías, el robo al transporte de carga y la incertidumbre que generan los aranceles de Estados Unidos están ocasionando que tanto grandes empresas como transportistas independientes retrasen o descarten la compra de nuevas unidades. En junio se vendieron 2 mil 253 camiones pesados al mayoreo, es decir, de los fabricantes a las agencias, lo que significó una caída de 67% respecto al mismo mes de 2024, según datos de la Asociación Nacional de Productores de Autobuses, Camiones y Tractocamiones (ANPACT). Lee también Se roban lo robado; comando sustrae camión de donde supuestamente sustrajeron 33 toneladas de oro Índice de compras de camiones nuevos En tanto, en el primer semestre se han comercializado 14 mil 533"
+  },
+  {
+    "url": "https://www.bloomberglinea.com/latinoamerica/mexico/habra-drama-y-aranceles-pero-continuara-t-mec-predice-el-economista-jefe-de-moodys-analytics/",
+    "source": "bloomberglinea.com",
+    "title": "Habrá drama y aranceles, pero continuará T-MEC, predice el economista jefe de Moody’s Analytics",
+    "author": [],
+    "published_date": "2025-07-18T13:25:51.719000+00:00",
+    "description": "La mayoría de los países de Latinoamérica capearán el temporal de aranceles, dijo a Bloomberg Línea Mark Zandi, economista jefe de Moody’s Analytics. Mark Zandi, economista jefe de Moody's Analytics, en entrevista con Bloomberg Línea en Ciudad de México el 16 de julio de 2025.(DANIEL HERNANDEZ) Ciudad de México — El Tratado entre México, Estados Unidos y Canadá (T-MEC) será renegociado en el verano de 2026 y continuará vivo ante la integración de las cadenas de suministro, sin embargo, en el camino hacia la revisión habrá drama y aranceles, predijo Mark Zandi, economista jefe de Moody’s Analytics. Si el presidente Donald Trump decidiera retirar a Estados Unidos del tratado comercial, las economías de Norteamérica entrarían en una “recesión grave”, dijo en entrevista con Bloomberg Línea el líder de la investigación económica en Moody’s Analytics. PUBLICIDAD “Creo que habrá acuerdos y que el drama aumentará, y con ello quiero decir que"
+  },
+  {
+    "url": "https://www.milenio.com/internacional/aranceles-jitomate-obsequio-trump-productores-florida",
+    "source": "milenio.com",
+    "title": "Aranceles al jitomate, 'obsequio' de Trump a productores de Florida",
+    "author": [
+      "Diego Salcedo"
+    ],
+    "published_date": "2025-07-18T03:05:46",
+    "description": "Al cabo de casi 30 años de esfuerzos, los poderosos jitomateros de Florida lograron un sueño acariciado: colocar a las lucrativas exportaciones de ese vegetal mexicano en una posición desventajosa en el mercado estadunidense, a pesar de la oposición de la cúpula del sector privado y de que la acción se traduzca en mayores precios del producto y de sus derivados para los consumidores. En un nuevo capítulo de su blitzkrieg comercial, el presidente Donald Trump aceptó implementar el fallo adoptado por el Departamento de Comercio hace tres décadas a petición de los productores de Florida, de que el vegetal rojo mexicano se comercializa en Estados Unidos “por debajo de un valor justo”, y decidido aplicar a las exportaciones del país del sur un arancel de 17.09 por ciento de inmediato. La implementación del fallo de 1996, que establecía tarifas punitivas contra las exportaciones mexicanas de jitomate, había sido pausado"
+  },
+  {
+    "url": "https://elceo.com/economia/t-mec-salva-a-mexico-tasa-efectiva-de-aranceles-seria-de-hasta-7/",
+    "source": "elceo.com",
+    "title": "T-MEC salva a México: tasa efectiva de aranceles sería de hasta 7%",
+    "author": [
+      "Miguel Moscosa"
+    ],
+    "published_date": "2025-07-18T10:00:41+00:00",
+    "description": "Aunque los aranceles de Estados Unidos lucen como una fuerte amenaza para México, la clave está en el cumplimiento del T-MEC, pues de apegarse al tratado comercial, la tasa de las tarifas sería mucho menor que el 30% previsto para aplicarse el 1 de agosto. Actualmente, México enfrenta los aranceles bajo la Ley de Poderes Económicos de Emergencia (IEEPA, por sus siglas en inglés) por 25% a todas las exportaciones, y se estima que solo se agregaría 5% a partir del próximo mes. Sin embargo, analistas subrayan que los aranceles impactarían en mayor medida al contenido fuera del T-MEC. Por ahora, se mantienen las exenciones del T-MEC, por lo que el arancel promedio sobre los productos mexicanos aumentará solo modestamente, a alrededor del 15%, desde aproximadamente el 12% anterior, y la mayoría de las exportaciones principales evitarán el aumento total dijo Andrés Abadía, economista en jefe para Latam de Pantheon"
+  },
+  {
+    "url": "https://rancherita.com.mx/noticias/detalles/179983/acaparamiento-y-especulacion-mantienen-incertidumbre-ante-aplicacion-de-aranceles.html",
+    "source": "rancherita.com.mx",
+    "title": "Acaparamiento y especulación mantienen incertidumbre ante aplicación de aranceles",
+    "author": [],
+    "published_date": null,
+    "description": "Destacadas • Publicado el 2025-07-18 Acaparamiento y especulación mantienen incertidumbre ante aplicación de aranceles Ante el panorama que se avecina con la imposición de parte de los Estados Unidos de aranceles del 30% a todos los productos mexicanos, Noticieros Rancherita del Aire acudió ante el comerciante local, expresidente de la Federación de Cámaras de Comercio de Coahuila y ecónomo de carrera, Héctor Rodríguez López, con una pregunta: ¿Qué pasará con los precios de todos los productos que se exportan a la Unión Americana? Su respuesta fue tan clara como ambigua: No se puede saber todavía. Héctor Rodríguez informó que, en caso del tomate, al cual se le colocó un arancel especial del 17%, ya se reporta una baja en su precio en los mercados de abastos del centro del país, sin embargo, podría ser una tendencia pasajera. Explicó que en cuanto empiece a escasear el tomate que actualmente se encuentra"
+  },
+  {
+    "url": "https://www.liderempresarial.com/trump-impone-arancel-a-china-de-53-6-esto-dijo-el-pais-asiatico/",
+    "source": "liderempresarial.com",
+    "title": "Trump impone arancel a China de 53.6%: Esto dijo el país asiático",
+    "author": [
+      "Jessica Contreras"
+    ],
+    "published_date": "2025-07-18T06:55:49-06:00",
+    "description": "La guerra comercial entre las dos principales potencias económicas del mundo volvió a escalar. Y es que este viernes, el ministro de Comercio de China, Wang Wentao, denunció que Estados Unidos ha impuesto un arancel a China del 53.6% a sus productos, en una medida que, según Pekín, recrudece el conflicto iniciado desde 2018 y refuerza las prácticas proteccionistas del gobierno de Joe Biden. Asimismo, la cifra, revelada durante una conferencia de prensa en Pekín, ha generado preocupación tanto en los mercados globales como en las cadenas de suministro de sectores estratégicos como el de los vehículos eléctricos. Wang explicó que la tarifa se compone de tres elementos clave: 10% como base general del arancel. 20% adicional como represalia por la supuesta participación de empresas chinas en la producción de precursores químicos de fentanilo. 23.6% correspondiente a gravámenes ya existentes desde etapas anteriores del conflicto comercial. “El arancel efectivo que"
+  },
+  {
+    "url": "https://latinus.us/latam/2025/7/17/lula-acusa-trump-de-chantajear-brasil-con-aranceles-basados-en-mentiras-147111.html",
+    "source": "latinus.us",
+    "title": "Lula acusa a Trump de chantajear a Brasil con aranceles basados en mentiras",
+    "author": [],
+    "published_date": "2025-07-17T00:00:00",
+    "description": "Comparta este artículo EFE.- El presidente de Brasil, Luiz Inácio Lula da Silva, calificó este jueves como un \"chantaje\" basado en falsas informaciones el anuncio del mandatario estadounidense, Donald Trump, de que impondrá aranceles del 50% a la importación de productos brasileños a partir del 1 de agosto. El líder progresista, en un pronunciamiento en red nacional de radio y televisión, dijo que la carta que Trump le envió al gobierno brasileño para anunciar los aranceles es \"un chantaje inaceptable, en la forma de amenaza a las instituciones brasileñas, y con informaciones falsas sobre el comercio entre ambos países\". El mandatario reafirmó la disposición de Brasil a negociar ante su convencimiento de que en una guerra comercial \"no hay vencedores\" y se dijo indignado con los políticos brasileños que apoyan las sanciones anunciadas por Trump, a los que acusó de traidores. Sin citar al presidente estadounidense, Lula dijo que utilizar"
+  }
+]

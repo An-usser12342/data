@@ -29,5 +29,5 @@ jobs:
             git commit -m "Add JSON files from convert-to-json.py" || echo "Nothing to commit"
             git push
           env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.TOKEN }}
 

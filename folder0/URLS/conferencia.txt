@@ -1,1 +1,10 @@
-https://www.elfinanciero.com.mx/nacional/2025/07/21/claudia-sheinbaum-mananera-temas-hoy-21-de-julio-de-2025-en-vivo/
+[
+  {
+    "url": "https://www.elfinanciero.com.mx/nacional/2025/07/21/claudia-sheinbaum-mananera-temas-hoy-21-de-julio-de-2025-en-vivo/",
+    "source": "elfinanciero.com.mx",
+    "title": "Pensión Mujeres Bienestar: ¿Quiénes se podrán inscribir desde el 1 de agosto para recibir el apoyo de 3 mil pesos?",
+    "author": [],
+    "published_date": "2025-07-21T00:00:00",
+    "description": "La presidenta Claudia Sheinbaum anunció que ya hay una nueva fecha de inscripción a la Pensión Mujeres Bienestar. Será a partir del próximo 1 de agosto cuando se abra el registro para las mujeres de 60 a 62 años, con el fin de que reciban hasta 3 mil pesos bimestrales, dijo la mandataria al iniciar su conferencia ‘mañanera’ de este lunes 21 de julio de 2025. Pensión Mujeres Bienestar: ¿Dónde hacer el registro? La secretaria del Bienestar, Ariadna Montiel, detalló que el registro para la Pensión Mujeres Bienestar será del 1 al 30 de agosto. A través de la página del Bienestar se consultan los módulos para hacer la inscripción. El horario será de lunes a sábado de 10:00 a 16:00 horas. Será necesario llevar los siguientes documentos: Identificación oficial vigente. CURP y acta de nacimiento. Comprobante de domicilio. Número telefónico de contacto. Formato Bienestar. Así queda el calendario de"
+  }
+]

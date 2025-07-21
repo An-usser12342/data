@@ -1,4 +1,38 @@
-https://oem.com.mx/elsoldemexico/finanzas/ado-no-recupera-aun-los-niveles-prepandemia-y-se-adapta-a-nuevas-exigencias-del-mercado-24823991
-https://www.lajornadamaya.mx/quintanaroo/249899/quintana-roo-incrementa-demanda-de-transporte-terrestre-en-el-arranque-de-las-vacaciones-veraniegas
-https://rancherita.com.mx/noticias/detalles/180090/muere-hombre-tras-chocar-su-camioneta-contra-autobus-en-piedras-negras.html
-https://yucatan.quadratin.com.mx/turismo/preven-15-de-aumento-en-flujo-de-pasajeros-del-ado/
+[
+  {
+    "url": "https://oem.com.mx/elsoldemexico/finanzas/ado-no-recupera-aun-los-niveles-prepandemia-y-se-adapta-a-nuevas-exigencias-del-mercado-24823991",
+    "source": "oem.com.mx",
+    "title": "ADO no recupera aún los niveles prepandemia y se adapta a nuevas exigencias del mercado - El Sol de México",
+    "author": [],
+    "published_date": null,
+    "description": "FINANZAS México responde a EU y defiende traslado de operaciones al AIFA EU acusa que México dejó de cumplir con el pacto aéreo bilateral desde 2022 cuando obligó a las aerolíneas de carga a reubicar sus operaciones en el AICM hacia el nuevo AIFA para aliviar la congestión en el aeropuerto de la CDMX"
+  },
+  {
+    "url": "https://www.lajornadamaya.mx/quintanaroo/249899/quintana-roo-incrementa-demanda-de-transporte-terrestre-en-el-arranque-de-las-vacaciones-veraniegas",
+    "source": "lajornadamaya.mx",
+    "title": "Quintana Roo: Incrementa demanda de transporte terrestre en el arranque de las vacaciones veraniegas",
+    "author": [
+      "Ana Ramírez"
+    ],
+    "published_date": null,
+    "description": "En este arranque de las vacaciones veraniegas, la estación de autobuses ADO en Cancún ha registrado un incremento de pasajeros, tanto en las corridas a lo largo de todo el estado como a entidades vecinas, centro del país y también hacia las estaciones del Tren Maya."
+  },
+  {
+    "url": "https://rancherita.com.mx/noticias/detalles/180090/muere-hombre-tras-chocar-su-camioneta-contra-autobus-en-piedras-negras.html",
+    "source": "rancherita.com.mx",
+    "title": "Muere hombre tras chocar su camioneta contra autobús en Piedras Negras",
+    "author": [],
+    "published_date": null,
+    "description": "Destacadas • Publicado el 2025-07-20 Muere hombre tras chocar su camioneta contra autobús en Piedras Negras Un hombre perdió la vida y una mujer resultó gravemente lesionada en un aparatoso accidente automovilístico ocurrido la madrugada de este domingo en la colonia San Joaquín de Piedras Negras. El percance se registró cuando el conductor de una camioneta Ford Lobo blanca, que aparentemente circulaba por la calle Tamaulipas, intentó incorporarse al bulevar Mendoza Berrueto. En ese momento, fue impactado por un autobús de pasajeros del Grupo Senda, con número económico 8181, que circulaba con vía libre. Debido al fuerte golpe, el conductor de la camioneta falleció en el lugar, ya que el impacto fue directo del lado del conductor. Su acompañante, identificada como Victoria Patricia Ramírez Gómez, de 25 años, resultó gravemente herida y fue trasladada de urgencia por paramédicos de la Cruz Roja al Hospital General Dr. Salvador Chavarría, donde fue"
+  },
+  {
+    "url": "https://yucatan.quadratin.com.mx/turismo/preven-15-de-aumento-en-flujo-de-pasajeros-del-ado/",
+    "source": "yucatan.quadratin.com.mx",
+    "title": "Prevén 15% de aumento en flujo de pasajeros del ADO",
+    "author": [
+      "Guadalupe Subiria"
+    ],
+    "published_date": "2025-07-19T00:40:00+00:00",
+    "description": "MÉRIDA, Yuc., 18 de julio de 2025.- Para este periodo vacacional de verano, la Terminal de Autobuses de ADO que está ubicada en el centro histórico espera un incremento diario en el flujo de pasajeros de hasta 15 por ciento, informó Carlos Toledo Ramírez, gerente general de la región peninsular de Mobility ADO. Dijo que en esta temporada de verano, la cual es amplia, paulatinamente con el paso de los días se irá moviendo la gente hacia los destinos concurridos que son a estados vecinos como Campeche y Quintana Roo, así como Tabasco, pero también hay demanda hacia el centro del país como Puebla y Ciudad de México. No obstante, los destinos preferidos de los viajeros yucatecos que salen del Estado por vacaciones siguen siendo los de playa, como los que se encuentran en Playa del Carmen y Cancún y para hacer frente a la demanda se prevé un aumento"
+  }
+]

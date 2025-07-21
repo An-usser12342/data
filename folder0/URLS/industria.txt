@@ -1,10 +1,89 @@
-https://www.unotv.com/nacional/vacaciones-descuentos-autobuses-estudiantes-maestros-verano-2025/
-https://www.parabolica.mx/2025/local/item/10458-aumenta-la-afluencia-de-viajeros-en-la-central-de-autobuses-capu
-https://www.tyt.com.mx/nota/paradores-seguros-con-inversion-privada-sict-publica-en-el-dof-aviso-para-17-tramos
-https://www.excelsior.com.mx/nacional/inicia-construccion-de-distribuidor-vial-en-tlaxcala-beneficiara-a-mas-de-192-mil
-https://elexpres.com/nota.php?story_id=344101
-https://www.gob.mx/guardianacional/prensa/guardia-nacional-realiza-recorridos-de-prevencion-del-delito-en-terminal-de-autobuses-en-chilpancingo
-https://www.milenio.com/politica/comunidad/diez-estados-concentran-robo-a-transporte-carga-mexico
-https://www.nmas.com.mx/nacional/capufe-retira-pagos-en-efectivo-a-partir-del-1-de-agosto-solo-permitira-estos-tag/
-https://municipiospuebla.mx/nota/2025-07-20/puebla/gobierno-de-puebla-incia-operativos-en-tramos-carreteros-prioritarios
-
+[
+  {
+    "url": "https://www.unotv.com/nacional/vacaciones-descuentos-autobuses-estudiantes-maestros-verano-2025/",
+    "source": "unotv.com",
+    "title": "Descuentos en autobuses para estudiantes y maestros vacaciones de verano 2025",
+    "author": [
+      "Edith Rojas"
+    ],
+    "published_date": "2025-07-19T20:48:42+00:00",
+    "description": "GENERANDO AUDIO... Los descuentos aplicarán en julio y agosto. Fotos: Cuartoscuro La Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) anunció que, durante el periodo vacacional de verano, se otorgarán descuentos en autobuses para estudiantes y maestros que utilicen el servicio de autotransporte federal de pasajeros o transporte ferroviario. Descuentos en autobuses para estudiantes y maestros en verano 2025 Según el comunicado oficial, los estudiantes tendrán un descuento del 50%, mientras que los maestros podrán acceder a una rebaja del 25% en las tarifas normales. Estas reducciones estarán disponibles del 16 de julio al 1 de septiembre de 2025, en correspondencia con el calendario escolar de la Secretaría de Educación Pública (SEP). ¿Quiénes pueden acceder al descuento en transporte federal? La medida aplica a alumnos inscritos en los niveles de preescolar, primaria, secundaria, normal, medio superior y superior. Están incluidas las escuelas incorporadas a la SEP, así como instituciones autónomas como"
+  },
+  {
+    "url": "https://www.parabolica.mx/2025/local/item/10458-aumenta-la-afluencia-de-viajeros-en-la-central-de-autobuses-capu",
+    "source": "parabolica.mx",
+    "title": "Aumenta la afluencia de viajeros en la Central de Autobuses CAPU",
+    "author": [
+      "Fernando Maldonado",
+      "Jesús Olmos",
+      "Antonio Abascal"
+    ],
+    "published_date": null,
+    "description": "Realizan exposiciones en la Centrral Camionera Durante este inicio del receso en la escuelas, se registra un aumento en la afluencia de viajeros en la Central de Autobuses CAPU. Lo anterior, por el arranque de las vacaciones escolares de verano en todo el país. En el lugar se exhibe una unidad antigua de transporte público, precursora del sistema actual."
+  },
+  {
+    "url": "https://www.tyt.com.mx/nota/paradores-seguros-con-inversion-privada-sict-publica-en-el-dof-aviso-para-17-tramos",
+    "source": "tyt.com.mx",
+    "title": "Paradores con inversión privada: SICT publica en el DOF aviso para 17 tramos",
+    "author": [],
+    "published_date": "2025-07-18T12:16:26-05:00",
+    "description": "La autoridad impulsa la inversión privada para la construcción y operación de paradores en la carreteras libres y de cuota en Mexico, destacan zonas prioritarias"
+  },
+  {
+    "url": "https://www.excelsior.com.mx/nacional/inicia-construccion-de-distribuidor-vial-en-tlaxcala-beneficiara-a-mas-de-192-mil",
+    "source": "excelsior.com.mx",
+    "title": "Inicia construcción de distribuidor vial en Tlaxcala; beneficiará a más de 192 mil habitantes",
+    "author": [
+      "Fernando Dávila"
+    ],
+    "published_date": "2025-07-20T12:41:10-06:00",
+    "description": "La Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) del gobierno de México, inició la construcción del Distribuidor Vial “Santa Ana” en Tlaxcala, que beneficiará a más de 192 mil habitantes de los municipios de Chiautempan, La Magdalena Tlaltelulco y la capital del estado. TE PUEDE INTERESAR: Estados Unidos amaga con vetar los vuelos mexicanos; SICT niega afectación Esta obra forma parte del Plan Nacional de Infraestructura Carretera 2025-2030, anunciado por el secretario Jesús Antonio Esteva Medina, permitirá impulsar la conectividad y el crecimiento económico de la región. Con un monto de inversión de 750 millones de pesos (mdp), el Distribuidor Vial se construye en la Carretera Federal MEX-121 Puebla-Belén, comprende un Paso Superior Vehicular con una longitud de 0.69 kilómetros, que permitirá alojar cuatro carriles, dos por sentido. Se prevé un ahorro en tiempo de 20 minutos. Foto: Cortesía Con esta obra se generarán alrededor de 5 mil 770 empleos,"
+  },
+  {
+    "url": "https://elexpres.com/nota.php?story_id=344101",
+    "source": "elexpres.com",
+    "title": "En agosto, inician obras de vía de cuota a Matehuala",
+    "author": [],
+    "published_date": null,
+    "description": "La construcción de la nueva carretera San Luis Potosí–Matehuala arrancará en la tercera semana de agosto, con el desarrollo de los primeros cruzamientos validados por la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) del gobierno federal, que también ya cuentan con los derechos de vía liberados, informó Francisco Reyes, director general de la Junta Estatal de Caminos (JEC)."
+  },
+  {
+    "url": "https://www.gob.mx/guardianacional/prensa/guardia-nacional-realiza-recorridos-de-prevencion-del-delito-en-terminal-de-autobuses-en-chilpancingo",
+    "source": "gob.mx",
+    "title": "Guardia Nacional realiza recorridos de prevención del delito en Terminal de Autobuses en Chilpancingo | Guardia Nacional | Gobierno | gob.mx",
+    "author": [
+      "Guardia Nacional"
+    ],
+    "published_date": null,
+    "description": "Guardia Nacional | 17 de julio de 2025 | Nacional Comunicado de Prensa Nacional/102 Ciudad de México, a 17 de julio 2025 En el marco de la Estrategia Nacional de Seguridad del Gobierno de México y con motivo de las vacaciones de verano 2025, integrantes de la Guardia Nacional, realizan recorridos de prevención del delito en la terminal de autobuses en Chilpancingo, Guerrero. Con el objeto de mantener el orden público y garantizar la seguridad de los usuarios, el personal de esta fuerza de seguridad pública efectúa recorridos en la periferia y en el interior de las instalaciones, con particular atención en la zona de taquillas, salas de espera y áreas de abordaje. Los guardias nacionales realizan rastreos preventivos en áreas de equipaje y en empresas de paquetería, para la inspección de maletas, equipaje de mano y portaequipaje de autobuses, a fin de prevenir el traslado de armas de fuego,"
+  },
+  {
+    "url": "https://www.milenio.com/politica/comunidad/diez-estados-concentran-robo-a-transporte-carga-mexico",
+    "source": "milenio.com",
+    "title": "Diez estados concentran el robo a transporte de carga en México",
+    "author": [
+      "Sofía Negrete Juan Carlos Romero Rivera Guillermo Esquivel",
+      "Sofía Negrete",
+      "Juan Carlos Romero Rivera Y",
+      "Guillermo Esquivel"
+    ],
+    "published_date": "2025-07-21T00:38:00",
+    "description": "El robo al transporte de carga se convirtió en una franja sobre el mapa del país. Una línea roja de asaltos que atraviesa las carreteras del centro como cicatriz: del Golfo al Bajío y de ahí a la costa del Pacífico. En el primer trimestre del año, esa herida se ensanchó y cruza por diez entidades. ¿Dónde se registra la mayor y menor incidencia de este delito? De enero a marzo de este año, 84 por ciento (%) de este tipo de robos se concentró de mayor a menor incidencia en el Estado de México, Puebla, Guanajuato, Jalisco, Hidalgo, Querétaro, San Luis Potosí, Michoacán, Tlaxcala y Veracruz. No es coincidencia. Esta franja donde el crimen embiste al transporte es la misma por donde se mueven las principales mercancías del país. Camiones que salen de los puertos de Veracruz o Michoacán, cruzan el corazón industrial de la nación y en ese"
+  },
+  {
+    "url": "https://www.nmas.com.mx/nacional/capufe-retira-pagos-en-efectivo-a-partir-del-1-de-agosto-solo-permitira-estos-tag/",
+    "source": "nmas.com.mx",
+    "title": "A Partir de Esta Fecha Capufe Solo Aceptará Estos Tipos de Tag para Pagar en Casetas",
+    "author": [],
+    "published_date": "2025-07-18T19:30:19-06:00",
+    "description": "Caminos y Puentes Federales (Capufe) ha dado a conocer que ya no aceptará pagos con efectivo en las casetas de autopistas. En lo que esto sucede de forma gradual, te decimos a partir de qué fecha aceptará pagos electrónicos solo con ciertos tipos de tag. Noticia relacionada: Capufe Lanza Importante Mensaje Sobre Uso de TAG IAVE en Vacaciones de Verano 2025 ¿A partir de cuándo ya no aceptarán efectivo en casetas de autopistas? Según dio a conocer la dependencia, se ha puesto en marcha un proceso para eliminar los pagos en efectivo en casetas. Paulatinamente, las autopistas del país solo aceptarán pagos electrónicos. Oficialmente, a partir del viernes 1 de agosto solo aceptarán seis tipos de tag para pago electrónico. La dependencia confía en que este cambio permita que las casetas operen con mayor velocidad y que sea mayor el número de conductores que cruzan por minuto. Video: Capufe Comienza"
+  },
+  {
+    "url": "https://municipiospuebla.mx/nota/2025-07-20/puebla/gobierno-de-puebla-incia-operativos-en-tramos-carreteros-prioritarios",
+    "source": "municipiospuebla.mx",
+    "title": "Just a moment...",
+    "author": [],
+    "published_date": null,
+    "description": "La Policía Estatal implementa patrullajes aéreos y terrestres en puntos específicos de las autopistas México-Puebla, Puebla-Veracruz, Cuapiaxtla-Cuacnopalan y Tlaxco-Tejocotal."
+  }
+]

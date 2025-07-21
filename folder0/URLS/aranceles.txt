@@ -1,7 +1,84 @@
-https://www.tyt.com.mx/nota/aranceles-y-revision-del-t-mec-presionaran-la-economia
-https://www.eleconomista.com.mx/economia/aranceles-productos-asiaticos-cobraron-factura-consumidor-i-sem-expertos-20250721-769008.html
-https://www.merca20.com/stellantis-2680-millones-de-dolares-aranceles-de-trump/
-https://www.jornada.com.mx/2025/07/21/opinion/016a1pol?partner=rss
-https://www.milenio.com/negocios/aranceles-de-eu-danaran-al-t-mec
-https://www.eluniversal.com.mx/cartera/aranceles-de-trump-apagan-el-potencial-del-pib-de-mexico-alerta/
-https://es.finance.yahoo.com/noticias/cu%C3%A1nto-deber%C3%ADa-preocuparse-fed-aranceles-123935800.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJEmCiItvmdBjZgiQTg-WAyhLAXKJtM8COnM5wu68bxc_K9Wx3foQYqSYuWir1I75e1qUWiHmLdXDWOF3EA1Nojk2RI0xNMizXb1s7pZEoat3VBa7IQEMj2EahND_HFt8kLo76j_m_mls53yPy6me_dnRjK5G2aCKgpOzGpmH7-Q
+[
+  {
+    "url": "https://www.tyt.com.mx/nota/aranceles-y-revision-del-t-mec-presionaran-la-economia",
+    "source": "tyt.com.mx",
+    "title": "Aranceles y revisión del T-MEC presionarán la economía",
+    "author": [],
+    "published_date": "2025-07-21T05:00:00-05:00",
+    "description": "Expertos y representantes de las industrias automotriz y agropecuaria concluyen que la incertidumbre será una constante en lo que resta del año"
+  },
+  {
+    "url": "https://www.eleconomista.com.mx/economia/aranceles-productos-asiaticos-cobraron-factura-consumidor-i-sem-expertos-20250721-769008.html",
+    "source": "eleconomista.com.mx",
+    "title": "Aranceles a productos asiáticos cobraron factura al consumidor en el I Sem: expertos",
+    "author": [
+      "Yolanda Morales",
+      "Gráfico Ee"
+    ],
+    "published_date": "2025-07-21T00:03:08-06:00",
+    "description": "El arancel fijo de 19% que aplica México, desde enero, a las mercancías importadas a través de plataformas, generó un efecto de una sola vez en los precios de la parte textil de juguetes, zapatos y ropa del Índice Nacional de Precios al Consumidor (INPC), coincidieron economistas de Finamex, casa de bolsa y J.P. Morgan. “Dentro del fenómeno inflacionario, al interior de las mercancías no alimenticias, es probable que tengamos un fenómeno asociado a estos aranceles, pero probablemente no sea el único factor que está contribuyendo a esa presión”, explicó el economista jefe de Finamex, casa de bolsa, Víctor Gómez Ayala. México impuso aranceles a productos asiáticos provenientes de China, Vietnam y Corea del Sur vía plataformas digitales, y sí vimos algunas categorías en el Índice de Precios al Consumidor (INPC) que estuvieron reflejando el impacto en los precios, aclaró el economista jefe para México en J.P. Morgan, Gabriel Lozano."
+  },
+  {
+    "url": "https://www.merca20.com/stellantis-2680-millones-de-dolares-aranceles-de-trump/",
+    "source": "merca20.com",
+    "title": "Stellantis pierde 2,680 millones de dólares por los aranceles de Trump",
+    "author": [
+      "Pablo Petovel",
+      "Journalist",
+      "Creative Campaigns",
+      "Data Explorer",
+      "Linkedin Creator. Linkedin",
+      "Pablopetovel",
+      "Tw"
+    ],
+    "published_date": "2025-07-21T12:12:54+00:00",
+    "description": "Stellantis reportó una pérdida neta de 2.680 millones de dólares en el primer semestre de 2025. Sus envíos en Norteamérica cayeron 25 % y sus ingresos globales bajaron a 74,350 millones de dólares. En 2025, las acciones de Stellantis han perdido 39 % de su valor. Aranceles, caída en ventas y un cambio de liderazgo Stellantis, el cuarto mayor fabricante de automóviles del mundo y propietario de marcas como Jeep, Fiat, Peugeot y Dodge, publicó este lunes 21 de julio cifras que reflejan una situación delicada: una pérdida neta de 2.680 millones de dólares en el primer semestre del año, una reversión notable respecto al beneficio de 6.524 millones de dólares reportado en el mismo período del 2024. Parte central de este colapso financiero se explica por el impacto directo de los nuevos aranceles implementados por Donald Trump. La empresa reconoció un golpe de 350 millones de dólares sólo por"
+  },
+  {
+    "url": "https://www.jornada.com.mx/2025/07/21/opinion/016a1pol?partner=rss",
+    "source": "jornada.com.mx",
+    "title": "La Jornada: Aranceles dañarían las economías de México y EU",
+    "author": [
+      "Demos",
+      "Desarrollo De Medios",
+      "S.A. De C.V."
+    ],
+    "published_date": "2025-07-21T00:00:00",
+    "description": "T an pronto se gana una batalla, sobreviene otra. Apenas se pudo reducir el gravamen a las remesas de 5 a uno por ciento en el programa fiscal de Estados Unidos, cuando ya pende una nueva amenaza: aranceles generalizados de 30 por ciento a las importaciones provenientes de México, a partir del 1º de agosto, igual que las que pretende aplicar a la Unión Europea, y apenas 5 por ciento menos que las provenientes de Canadá. Este gravamen se sumaría al que ya se aplica a algunos materiales específicos, como el de 25 por ciento a las importaciones de acero y aluminio, igual que a los automóviles y algunas autopartes. Son insumos que entran y salen, y que finalmente terminarán afectando la cadena de producción en ambos lados de la frontera y restando competitividad a la industria bilateral frente a otros bloques económicos. Se añadiría también al arancel de 17.09"
+  },
+  {
+    "url": "https://www.milenio.com/negocios/aranceles-de-eu-danaran-al-t-mec",
+    "source": "milenio.com",
+    "title": "Aranceles de EU dañarán al T-MEC",
+    "author": [
+      "Antonio Sánchez"
+    ],
+    "published_date": "2025-07-20T15:08:49",
+    "description": "Los aranceles impuestos por el presidente de Estados Unidos a México y Canadá tendrán un impacto que afectará a todos los sectores e industrias que actualmente están integradas en cadenas de producción en el marco del T-MEC y lo pondrá en una situación vulnerable de cara a la revisión prevista para el 2026. El primer ministro de Canadá, Mark Carney reconoció públicamente por primera vez que el acuerdo que está negociando con el presidente estadunidense Donald Trump incluirá aranceles. “No hay mucha evidencia en este momento de que Estados Unidos esté ofreciendo acuerdos libres de aranceles”, comentó Carney previo a una reunión de emergencia con su gabinete en Ottawa. Los sectores más afectados serán los de la agroindustria, el automotriz, acero, aluminio, madera, minerales críticos y energía. Canadá exporta a Estados Unidos el 27 por ciento de sus autos y autopartes, altamente integrado con México y Estados Unidos por lo"
+  },
+  {
+    "url": "https://www.eluniversal.com.mx/cartera/aranceles-de-trump-apagan-el-potencial-del-pib-de-mexico-alerta/",
+    "source": "eluniversal.com.mx",
+    "title": "Aranceles de Trump apagan el potencial del PIB de México, alerta",
+    "author": [
+      "Leonor Flores",
+      "Ver Perfil"
+    ],
+    "published_date": null,
+    "description": "México libró una recesión técnica en el primer trimestre del año, pero terminará 2025 con un crecimiento apagado por los aranceles impuestos por Estados Unidos y finanzas públicas presionadas, dijo el estratega de inversión para Latinoamérica de Vanguard, Rafael Rodríguez. Sin embargo, hay esperanzas con la relocalización de empresas, aseguró, para lo cual será requiere más infraestructura, energía y fortalecer el Estado de derecho. En entrevista con EL UNIVERSAL, el estratega de la empresa de fondos de inversión se refirió a las expectativas económicas para la segunda mitad del año, en función de tres factores: tarifas al comercio exterior, tasas de interés de los bancos centrales y diversificación de portafolios de inversión. Lee también Prevén sacrificio fiscal de 1.7 billones de pesos en 2026 “A futuro, las cosas se ven mejor. A pesar de que el efecto del nearshoring no parece muy consistente con las tensiones comerciales, es una realidad"
+  },
+  {
+    "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1nto-deber%C3%ADa-preocuparse-fed-aranceles-123935800.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJEmCiItvmdBjZgiQTg-WAyhLAXKJtM8COnM5wu68bxc_K9Wx3foQYqSYuWir1I75e1qUWiHmLdXDWOF3EA1Nojk2RI0xNMizXb1s7pZEoat3VBa7IQEMj2EahND_HFt8kLo76j_m_mls53yPy6me_dnRjK5G2aCKgpOzGpmH7-Q",
+    "source": "es.finance.yahoo.com",
+    "title": "¿Cuánto debería preocuparse la Fed por los aranceles?",
+    "author": [
+      "Vahid Karaahmetovic",
+      "Lun",
+      "Jul",
+      "A. M.",
+      "Min De Lectura"
+    ],
+    "published_date": null,
+    "description": "Investing.com - Un aumento en las expectativas de inflación relacionadas con los aranceles está provocando un renovado debate en la Reserva Federal, pero los mercados todavía parecen ver estos choques como en gran parte transitorios, según Standard Chartered (LON:STAN). Los swaps de inflación sugieren que los inversores esperan que la mayoría de los aumentos de precios inducidos por aranceles se desvanezcan en un año, con poca evidencia de efectos persistentes de segunda ronda. Los swaps de inflación a un año han subido 50 puntos básicos desde finales de marzo, mientras que los swaps a dos años han aumentado solo 24 puntos básicos, lo que sugiere que el choque no se considera duradero. \"En su mayor parte, los mercados asumen que los choques inflacionarios no persistirán más allá de un año\", dijo Steve Englander, jefe de investigación de divisas G10 global y del equipo de estrategia macro de Norteamérica en Standard"
+  }
+]

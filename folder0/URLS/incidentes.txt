@@ -1,6 +1,52 @@
-https://www.aztecaqueretaro.com/noticias/notas/reporte-del-trafico-en-la-autopista-mexico-queretaro-hoy-lunes-21-julio-2025
-https://www.msn.com/es-mx/noticias/mexico/caos-en-la-m%C3%A9xico-pachuca-vuelca-pipa-con-combustible-en-tlalnepantla-alternativa-vial/ar-AA1IwPN8?cvid=D95B2F6D69A8424D84B1D8517AC71F68&ocid=mailsignout&apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
-https://aldialogo.mx/estado/2025/07/20/intenso-trafico-en-autopista-mexico-queretaro-por-paso-de-peregrinacion
-https://municipiospuebla.mx/nota/2025-07-20/tehuac%C3%A1n/accidente-sobre-la-m%C3%A9xico-veracruz-deja-7-personas-heridas
-https://www.aztecapuebla.com/noticias/accidente-la-autopista-mexico-puebla-desata-rapina-en-coronango
-https://oem.com.mx/diariodexalapa/policiaca/autobus-de-pasajeros-sufre-accidente-en-la-autopista-acayucan-cosoleacaque-24846868
+[
+  {
+    "url": "https://www.aztecaqueretaro.com/noticias/notas/reporte-del-trafico-en-la-autopista-mexico-queretaro-hoy-lunes-21-julio-2025",
+    "source": "aztecaqueretaro.com",
+    "title": "Te contamos cómo está la carretera México-Querétaro HOY para que no te agarre en curva en este inicio de semana",
+    "author": [],
+    "published_date": "2025-07-21T13:53:14.020000",
+    "description": "En este inicio de semana si vas a transitar por la carretera 57, si sales a la Ciudad de México o te diriges a San Luis Potosí aquí te decimos cómo se encuentra la circulación esta mañana. Iniciamos sobre Paseo 5 de Febrero hallarás moderada carga vehicular con avance lento desde la colonia Felipe Carrillo Puerto hasta Lomas de Casa Blanca. Si tomas el bulevar Bernardo Quintana en dirección al sur, hallarás intensa carga vehicular desde Álamos hasta Calzada de Los Arcos. Pero si viajas del territorio guanajuatense hacia Querétaro, toma en cuenta que se registra embotellamiento sobre la carretera libre a la altura de la colonia Los Ángeles en la zona de topes. En Paseo Constituyentes, hallarás intensa carga vehicular desde el puente de Tejeda hasta Plaza de Toros y su incorporación a la autopista 57. ¿Cómo avanza la carretera Querétaro-San Luis Potosí hoy? Si te diriges a San"
+  },
+  {
+    "url": "https://www.msn.com/es-mx/noticias/mexico/caos-en-la-m%C3%A9xico-pachuca-vuelca-pipa-con-combustible-en-tlalnepantla-alternativa-vial/ar-AA1IwPN8?cvid=D95B2F6D69A8424D84B1D8517AC71F68&ocid=mailsignout&apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1",
+    "source": "msn.com",
+    "title": "MSN",
+    "author": [],
+    "published_date": null,
+    "description": "La tarde del domingo 13 de julio, se registró la volcadura de una pipa cargada con combustible sobre la autopista México-Pachuca, a la altura del municipio de Tlalnepantla de Baz, en el Estado de México"
+  },
+  {
+    "url": "https://aldialogo.mx/estado/2025/07/20/intenso-trafico-en-autopista-mexico-queretaro-por-paso-de-peregrinacion",
+    "source": "aldialogo.mx",
+    "title": "Intenso tráfico en autopista México-Querétaro por paso de peregrinación",
+    "author": [
+      "Jair Lara"
+    ],
+    "published_date": "2025-07-20T00:00:00",
+    "description": "Luego de una semana de recorrido por la Sierra Gorda de Querétaro, miles de creyentes continúan su camino hacia el Tepeyac, ubicado al norte de la Ciudad de México, justo a lado de la Basílica de la Virgen de Guadalupe."
+  },
+  {
+    "url": "https://municipiospuebla.mx/nota/2025-07-20/tehuac%C3%A1n/accidente-sobre-la-m%C3%A9xico-veracruz-deja-7-personas-heridas",
+    "source": "municipiospuebla.mx",
+    "title": "Just a moment...",
+    "author": [],
+    "published_date": null,
+    "description": "El presunto responsable fue el conductor de un vehículo que conducía en estado de ebriedad y se impactó contra un autobús de la línea AU, así como una camioneta"
+  },
+  {
+    "url": "https://www.aztecapuebla.com/noticias/accidente-la-autopista-mexico-puebla-desata-rapina-en-coronango",
+    "source": "aztecapuebla.com",
+    "title": "FOTOS: Volcadura de tráiler sobre la autopista México-Puebla desata rapiña en Coronango",
+    "author": [],
+    "published_date": null,
+    "description": "Durante hoy, 20 de julio de 2025, a la altura del municipio de Coronango sobre la autopista México-Puebla se registró un fuerte accidente que involucró la volcadura de un tráiler cargado con papayas y actos de rapiña. De acuerdo a información inicial, el incidente tuvo lugar específicamente en la junta auxiliar de San Francisco Ocotlán, en el municipio de Coronango, donde múltiples personas acudieron de inmediato a la lateral de la vía para recoger la fruta. ¿Quiénes participaron en la rapiña sobre la autopista México-Puebla en Coronango? Durante la rapiña sobre la autopista México-Puebla en Coronango se observó la participación de decenas de personas, incluyendo familias completas que llegaron con autos y costales para llevarse la carga del camión volcado. En videos compartidos en redes sociales, incluso se captó a menores de edad, adultos y hasta personas de la tercera edad trasladando papayas en grandes cantidades, sin importar el riesgo"
+  },
+  {
+    "url": "https://oem.com.mx/diariodexalapa/policiaca/autobus-de-pasajeros-sufre-accidente-en-la-autopista-acayucan-cosoleacaque-24846868",
+    "source": "oem.com.mx",
+    "title": "Autobús de pasajeros sufre accidente en la autopista Acayucan-Cosoleacaque - Diario de Xalapa",
+    "author": [],
+    "published_date": null,
+    "description": "POLICIACA Hombre fallece dentro de su automóvil tras un presunto infarto, en Papantla Se encontraba en el interior de su automóvil; se trataría de un gerente de una tienda de conveniencia"
+  }
+]
